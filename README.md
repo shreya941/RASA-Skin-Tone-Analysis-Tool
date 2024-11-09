@@ -3,4 +3,4 @@ ABESIT- 4th year major project
 
 LIBRARES TO BE IMOPORTED------
 
-tinkter, scipy, 
+tinkter, numpy, opencv
